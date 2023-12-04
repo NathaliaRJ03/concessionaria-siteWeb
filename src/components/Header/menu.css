@@ -21,5 +21,14 @@
 }
 
 .menu a:houver{
-    color:red;
+    color:rgb(114, 110, 110);
+}
+
+.letras{
+    font-weight: bold;
+    font-size: 110%;
+}
+.tit1{
+    font-size: 370%
+
 }

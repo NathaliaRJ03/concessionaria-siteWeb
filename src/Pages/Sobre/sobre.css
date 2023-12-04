@@ -1,0 +1,31 @@
+.container{
+    width:100%;
+    min-height: 30px;
+
+    display:flex;
+    align-items:center;
+    justify-content:flex-start;
+}
+.img{
+    height: 450px;
+}
+
+.option {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.option span{
+    color:rgb(109, 109, 109);
+}
+
+.apt{
+    padding-top: 15px;
+
+
+}
+.carroG{
+    width: 100%;
+    height: 35%;
+}
